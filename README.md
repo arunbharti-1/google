@@ -18,7 +18,7 @@ This is my personal **portfolio website**, built using **HTML**, **CSS**, and **
 - JavaScript (Vanilla)
 
 ## 📂 Folder Structure
-/google
+```/google
 │
 ├── index.html
 ├── /css
@@ -26,6 +26,7 @@ This is my personal **portfolio website**, built using **HTML**, **CSS**, and **
 ├── /js
 │   └── main.js
 └── README.md
+```
 
 
 
