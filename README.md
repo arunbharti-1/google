@@ -20,12 +20,12 @@ This is my personal **portfolio website**, built using **HTML**, **CSS**, and **
 ## 📂 Folder Structure
 /google
 │
-├── index.html
-├── /css
-│ └── style.css
-├── /js
-│ └── main.js
-└── README.md
+##├── index.html
+##├── /css
+##│ └── style.css
+##├── /js
+##│ └── main.js
+##└── README.md
 
 
 ## 👨‍💻 Example C# Code
