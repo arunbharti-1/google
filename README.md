@@ -1,19 +1,22 @@
+# 💼 Personal Portfolio Website
 
-# Google clone project
-# Google Clone
+This is my personal **portfolio website**, built using **HTML**, **CSS**, and **JavaScript**. It showcases my projects, skills, and contact information in a clean and responsive layout.
 
-This is a simple front-end clone of the Google homepage built using HTML and CSS.
+## 🚀 Features
 
-## Features
+- Responsive design (mobile & desktop)
+- Smooth scroll navigation
+- Animated sections
+- Project showcase with hover effects
+- Contact form (HTML-based)
+- Dark/light theme (optional)
 
-- Responsive layout
-- Clean UI
-- Search bar (non-functional)
+## 🛠 Tech Stack
 
-## How to Use
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
 
-Just open `index.html` in your browser.
+## 📂 Folder Structure
 
-## Author
 
-Arun Bharti
